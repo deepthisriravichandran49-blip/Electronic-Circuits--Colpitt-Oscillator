@@ -4,6 +4,7 @@ To simulate a Colpitt Oscillator and to verify the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 12 34 59 PM" src="https://github.com/user-attachments/assets/d77872bf-6677-4cb5-ae05-05c4fef10d77" />
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -39,7 +40,10 @@ PC with LT Spice software
 33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 34.	## THEORITICAL CALCULATION:
-35.	
+35.	<img width="1600" height="1540" alt="WhatsApp Image 2026-09-14 at 12 35 28 PM" src="https://github.com/user-attachments/assets/c0ea7744-963f-4a38-b0cf-53d6e10276f4" />
+
 37.	## OUTPUTS:
+<img width="1527" height="701" alt="image" src="https://github.com/user-attachments/assets/127d5c4f-f358-48f1-9e9a-a115187a6cdd" />
 
 38.	## RESULT:
+<img width="1599" height="456" alt="WhatsApp Image 2026-09-14 at 12 36 03 PM" src="https://github.com/user-attachments/assets/e007c9ea-4b1d-4797-86fd-71354981bf3f" />
